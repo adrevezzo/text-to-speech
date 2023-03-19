@@ -2,3 +2,6 @@
 .env
 key.json
 *.mp3
+creds/
+tmp*
+*.pdf
